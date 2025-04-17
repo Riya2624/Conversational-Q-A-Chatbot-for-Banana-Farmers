@@ -31,5 +31,5 @@ A smart AI-powered chatbot built using **Streamlit** and **Gemini 1.5 API** to a
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/banana-chatbot.git
+git clone https://github.com/Riya2624/Conversational-Q-A-Chatbot-for-Banana-Farmers
 cd banana-chatbot
